@@ -1,3 +1,4 @@
 /.idea/
-maven_training.iml
-target/
+*.iml
+target
+out
